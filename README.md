@@ -1,6 +1,6 @@
 # FLTK_2048
 a 2048 game based on FLTK library and vs2017
-2048_文件夹为整个vs解决项目文件夹，直接打开后通过vs2017打开2048_.sln即可
+2048_,Debug,lib,include文件夹和2048_.sln合在一起为整个vs解决项目文件夹，直接打开后通过vs2017打开2048_.sln即可
 
 启动程序通过打开路径2048_/Debug/2048_.exe即可，运行的效果和vs中运行2048_.cpp相同。
 
