@@ -1,0 +1,52 @@
+﻿  GameWindow.cpp
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(33): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(42): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(62): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(82): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(90): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(103): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(106): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(109): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(123): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(140): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(150): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(158): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(171): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(174): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(177): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(203): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(233): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(263): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(293): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(382): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(393): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(420): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(430): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(457): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(467): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(494): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(504): warning C4018: “<”: 有符号/无符号不匹配
+d:\cpp_bigproject\game\2048_\2048_\gamewindow.cpp(546): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+  2048_.vcxproj -> D:\CPP_bigproject\Game\2048_\Debug\2048_.exe
